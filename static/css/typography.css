@@ -1,0 +1,26 @@
+.blueText {
+    color: blue; /* blue color for category */
+
+}
+
+.greenText {
+    color: #26A845; /* green color for category */
+}
+
+a {
+    color: #007bff; /* blue color for links */
+    text-decoration: none;
+}
+
+#aboutUs {
+    background-color: #f4f4f4;
+    padding: 10px;
+    border-radius: 10px;/* rounded borders */
+}
+
+/* footer image sizing */
+.footerImg {
+    max-width: 100%;
+    height: auto;
+    max-height: 50px;
+}

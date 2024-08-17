@@ -1,0 +1,62 @@
+.cardHeader {
+    padding: 0%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+}
+
+.cardHeader h2 {
+    margin: 0; /* Remove default margin from the h2 element */
+    padding-bottom: 5px; /* Add space between title and date */
+}
+
+.cardHeader p {
+    margin: 0; /* Remove default margin from the p element */
+    font-size: 0.9em; /* card header font size */
+}
+
+.post {
+    border: 1px solid #ccc; /* add border around post */
+    padding: 15px; /* add padding inside blog posts */
+    border-radius: 5px;/* rounded borders */
+    margin-bottom: 10px;
+    transition: background-color 0.3s ease; /* add hover effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); /* add box shadow */
+    /* add background color on hover */
+    &:hover {    
+        background-color: #f1f1f1;
+    }
+
+}
+
+.viewPost {
+    padding: 15px; /* add padding inside blog posts */
+}
+
+
+
+/* button styling for view post buttons */
+.article-buttons {
+    display: flex;
+    margin: 0px;
+
+}
+
+.btn {
+    padding: 10px 20px;
+    margin: 0px 4px;
+    border: 2px solid #007bff;
+    border-radius: 20px;
+    background-color: transparent;
+    color: #007bff;
+    font-size: 16px;
+    text-decoration: none; 
+}
+
+
+.btn:hover {
+    background-color: #007bff;
+    color: white;
+}
