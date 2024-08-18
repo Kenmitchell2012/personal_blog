@@ -24,3 +24,13 @@ a {
     height: auto;
     max-height: 50px;
 }
+
+/* post image styling */
+/* figure image styling */
+.post-image, #figImg {
+    width: 100%; /* Ensures the image fits within the container's width */
+    margin-top: 15px; /* Adds space above the image */
+    margin-bottom: 15px; /* Adds space below the image */
+    border-radius: 8px; /* Adds rounded corners */
+}
+
