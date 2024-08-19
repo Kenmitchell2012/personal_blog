@@ -28,9 +28,19 @@ a {
 /* post image styling */
 /* figure image styling */
 .post-image, #figImg {
-    width: 100%; /* Ensures the image fits within the container's width */
+    width: 100%; /* make image width of container */
     margin-top: 15px; /* Adds space above the image */
     margin-bottom: 15px; /* Adds space below the image */
-    border-radius: 8px; /* Adds rounded corners */
+    border-radius: 8px; /* Rounded corners */
 }
 
+/* social media icons styling */
+.socialMedia a {
+    color: #007bff;
+    font-size: 24px;
+    margin: 0 15px;
+}
+
+.socialMedia a:hover {
+    color: #0056b3;
+}

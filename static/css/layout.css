@@ -49,3 +49,12 @@
     border-radius: 5px;/* rounded borders */
 }
 
+/* styling for author avatar */
+.authorAvatar {
+    width: 60%; /* Set the size of the avatar */
+    display: block; /* image block element */
+    margin: 5px auto; /* Center image */
+    height: auto;
+    margin-bottom: 10px;
+}
+
