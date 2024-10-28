@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is designed to showcase your my and CSS skills by building a personal blog website from scratch. The blog will include custom images, a responsive layout, and personalized styling. The focus is on using best practices for structuring files and ensuring proper formatting of HTML and CSS code.
+This project is designed to showcase my CSS skills by building a personal blog website from scratch. The blog will include custom images, a responsive layout, and personalized styling. The focus is on using best practices for structuring files and ensuring proper formatting of HTML and CSS code.
 
 ## Features
 
